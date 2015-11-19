@@ -20,8 +20,9 @@ Thursday, Nov 19, 2015
 * Avoid knowledge silos
 * Large (or overlapping) tasks / user stories
 * It's more than just typo spotting!
-#### Obvious reasons for pair programming
-#### Less obvious reasons for pair programming
+  
+#### Obvious reasons for pair programming  
+#### Less obvious reasons for pair programming  
 * Abstract tasks
 * Changing requirements
 * Shorter deadline (one week mini-sprint vs. our typical two weeks)
@@ -138,3 +139,5 @@ Examples:
 * Use breakpoints in Chrome DevTools, use less `console.log`
 * John Papa Style Guide on Angular _"Best Practices"_*
 * Chrome tab navigation (Command + 1)
+## Antipatterns
+* BTW, Eric hates this word
