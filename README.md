@@ -22,6 +22,9 @@ Thursday, Nov 19, 2015
 * It's more than just typo spotting!
   
 #### Obvious reasons for pair programming  
+* Onboarding new team members
+* Overlapping functionality in multiple stories
+* If someone is learning a new skill or element of our codebase
 #### Less obvious reasons for pair programming  
 * Abstract tasks
 * Changing requirements
