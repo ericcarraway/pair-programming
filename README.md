@@ -45,15 +45,15 @@ Thursday, Nov 19, 2015
     * Whiteboard available
     * Notebook/paper and pen available
 ```
-### How to Git with multiple partners for fun and profit
-Understanding `git` workflow - how to collaborate on a branch / PR
-Thanks to @tomtom for his help on Slack
-_Summary_
-`TeamMemberA` and `TeamMemberB` collaborate on `TeamMemberA`s box.
-They reach a stopping point and push to `TeamMemberA`'s GitHub `origin`.
-`TeamMemberA` makes a W.I.P. pull request for other team members to review and comment on.
-If `TeamMemberB` then wants to work on `TeamMemberA:story-1234-asdf`,
-he should add `TeamMemberA`'s fork as a remote via:
+### How to Git with multiple partners for fun and profit  
+Understanding `git` workflow - how to collaborate on a branch / PR  
+Thanks to @tomtom for his help on Slack  
+_Summary_  
+`TeamMemberA` and `TeamMemberB` collaborate on `TeamMemberA`s box.  
+They reach a stopping point and push to `TeamMemberA`'s GitHub `origin`.  
+`TeamMemberA` makes a W.I.P. pull request for other team members to review and comment on.  
+If `TeamMemberB` then wants to work on `TeamMemberA:story-1234-asdf`,  
+he should add `TeamMemberA`'s fork as a remote via:  
 ```
 git remote add TeamMemberA https://github.com/TeamMemberA/our-team-project.git
 
