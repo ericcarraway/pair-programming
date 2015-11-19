@@ -140,6 +140,7 @@ _You may miss your heads-down with headphones in-the-zone feels._
 Examples:
 * Use breakpoints in Chrome DevTools, use less `console.log`
 * John Papa Style Guide on Angular _"Best Practices"_*
-* Chrome tab navigation (Command + 1)
+* Chrome tab navigation (Command + 1)  
+
 ## Antipatterns
 * BTW, Eric hates this word
