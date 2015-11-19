@@ -108,6 +108,8 @@ Contrasting opinions on pacing
 
 ## The driver role and the navigator role
 * If less experienced in an area, you drive (e.g. directives)
+* Examples of GOOD driver / navigator behavior
+* Examples of BAD driver / navigator behavior
 
 ## Personality and the human aspect
 * Align schedules on a macro and micro level
